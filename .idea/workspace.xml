@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676b5dec-25e7-4808-a30f-5e04ce374fd2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/HillClimbing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/SingleIntegerHillClimbing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/TestTwoValues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/TestValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/TestValueMultiplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UnitTestGeneration/TwoIntegerHillClimbing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +31,11 @@
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="TestTwoValues.java" pinned="false" current-in-tab="false">
@@ -256,7 +252,7 @@
       <updated>1524641829505</updated>
       <workItem from="1524641833770" duration="16751000" />
       <workItem from="1525261128784" duration="528000" />
-      <workItem from="1525705618095" duration="3589000" />
+      <workItem from="1525705618095" duration="3615000" />
     </task>
     <servers />
   </component>
@@ -293,7 +289,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20868000" />
+    <option name="totallyTimeSpent" value="20894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="136" y="-1260" width="1630" height="1027" extended-state="0" />
@@ -568,7 +564,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
